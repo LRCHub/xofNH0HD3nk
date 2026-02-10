@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "静息 / ver.Es",
+  "base_artist": "Es",
+  "createdAt": "2026-02-10T05:49:14.378071Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "静息 (Cover)",
+      "artist": "Es",
+      "has_synced": false,
+      "path": "select/pl_01_静息_(Cover)_Es.txt"
+    }
+  ]
+}
